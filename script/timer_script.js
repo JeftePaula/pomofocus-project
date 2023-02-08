@@ -23,7 +23,7 @@ function timer(){
             document.getElementById('timer').innerText = "00:00";
             return;
         }
-        sec = 5;
+        sec = 59;
         min--;
     }
     if(sec < 10 && min < 10){
