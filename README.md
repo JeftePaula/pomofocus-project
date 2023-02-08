@@ -1,2 +1,2 @@
 # pomofocus-project
-Repositório para praticar html e css simples
+projeto para praticar html e css simples
